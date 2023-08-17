@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, i am Bunjo<br><br>I am interested in python ruby ​​html php and c languages,<br>and I'm dealing with penetration tests.<br>
+Hello, i am Bunjo<br><br>I am interested in python, ruby, ​​html, php and c languages,<br>and I'm dealing with penetration tests.<br>
 
 
 ## 🌐 Socials:
